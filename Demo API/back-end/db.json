@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyễn Dương",
+      "age": 22,
+      "address": "HN",
+      "phone": "098331121"
+    },
+    {
+      "id": 2,
+      "name": "Huy",
+      "age": 28,
+      "address": "ĐN",
+      "phone": "098331781"
+    },
+    {
+      "name": "Tiến",
+      "age": 23,
+      "address": "QN",
+      "phone": "0981315521",
+      "id": 4
+    },
+    {
+      "name": "Tiến",
+      "age": 23,
+      "address": "QN",
+      "phone": "0981315521",
+      "id": 5
+    },
+    {
+      "name": "Hiệp",
+      "age": 32,
+      "address": "HN",
+      "phone": "098145671",
+      "id": 6
+    },
+    {
+      "name": "Thành",
+      "age": 30,
+      "address": "HN",
+      "phone": "098112311",
+      "id": 7
+    }
+  ]
+}
